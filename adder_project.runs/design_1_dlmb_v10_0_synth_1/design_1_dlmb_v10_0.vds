@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Sep  1 19:01:04 2019
+# Process ID: 31255
+# Current directory: /home/chaitusvk/Documents/axi_pheripheral/micro_axi_periheral/micro_axi_periheral.runs/design_1_dlmb_v10_0_synth_1
+# Command line: vivado -log design_1_dlmb_v10_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_dlmb_v10_0.tcl
+# Log file: /home/chaitusvk/Documents/axi_pheripheral/micro_axi_periheral/micro_axi_periheral.runs/design_1_dlmb_v10_0_synth_1/design_1_dlmb_v10_0.vds
+# Journal file: /home/chaitusvk/Documents/axi_pheripheral/micro_axi_periheral/micro_axi_periheral.runs/design_1_dlmb_v10_0_synth_1/vivado.jou
+#-----------------------------------------------------------
+source design_1_dlmb_v10_0.tcl -notrace
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository '/home/chaitusvk/Documents/axi_pheripheral/ip_repo'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/opt/Xilinx/Vivado/2019.1/data/ip'.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP design_1_dlmb_v10_0, cache-ID = 8fd169e25f153eb9.
+INFO: [Common 17-206] Exiting Vivado at Sun Sep  1 19:01:19 2019...
